@@ -1,4 +1,4 @@
-Heyy...! Welcome TO my Git🙋‍♂️
+Heyy...! Welcome To my Git🙋‍♂️
 
 <!---
 Dhirajbhavsar9900/Dhirajbhavsar9900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
